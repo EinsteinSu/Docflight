@@ -5,7 +5,7 @@ div.nav {
 
 div.nav img {
     hight: auto;
-    width: 400px;
+    width: 20%;
 }
 
 div.nav ul {
@@ -32,9 +32,9 @@ div.nav ul li a {
 }
 
 div.nav ul li a:hover:not(.active) {
-    background-color: #111;
+    background-color: blue;
 }
 
 div.nav ul li a:active {
-    background-color: #4CAF50;
+    background-color: white;
 }
